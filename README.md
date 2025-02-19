@@ -1,2 +1,1 @@
-# lbc
-NT - LBC
+# NT - LBC
